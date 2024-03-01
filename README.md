@@ -19,4 +19,4 @@ Based on given id we can navigate and read particular Student details from file 
 I used a temporary file to maintain a file detail.
 
 # Update a particular student details on basis of Id(Primary Key)
-this uses functionality of both Delete() and then Add() data for a particular student based on that student id.
+This uses functionality of both Delete() and then Add() data for a particular student based on that student id.
